@@ -1,10 +1,6 @@
 # Blog Webpage Demo Layout with comments functioning
 This is a demo blog web page with a dummy blog and Comments connected with Backend with firebase for comments.
 
-
-<img align="center" alt="" src="https://firebasestorage.googleapis.com/v0/b/blog-website-eca06.appspot.com/o/Screenshot%20(94).png?alt=media&token=47ec90cd-c491-4bb1-ba9a-5e2e67f6e99c">
-<img align="center" alt="" src="https://firebasestorage.googleapis.com/v0/b/blog-website-eca06.appspot.com/o/Screenshot%20(93).png?alt=media&token=c774f589-5958-4f32-9293-27e21b360067">
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
